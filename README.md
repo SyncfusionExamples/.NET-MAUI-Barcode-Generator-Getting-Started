@@ -1,6 +1,6 @@
 # .NET MAUI Barcode Generator Getting Started
 
-This repository contains samples for how to get started with the [Syncfusion .NET MAUI Barcode Generator](https://help.syncfusion.com/maui/barcode-generator/getting-started) control. The .NET MAUI Barcode Generator is a data visualization control used to generate and display data in a machine-readable format. It provides a perfect approach to encode text using supported symbology types.
+This repository contains samples to getting started with the [Syncfusion .NET MAUI Barcode Generator](https://help.syncfusion.com/maui/barcode-generator/getting-started) control. The .NET MAUI Barcode Generator is a data visualization control used to generate and display data in a machine-readable format. It provides a perfect approach to encode text using supported symbology types.
 
 ## Syncfusion controls
 
